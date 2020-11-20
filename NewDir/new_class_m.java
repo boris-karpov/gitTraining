@@ -6,8 +6,6 @@
     method_107
     method_108  updated
     method_109 modified
-    method_23
-    method_24
     method_25  modified
     method_110
     method_34  updated modified
